@@ -1,0 +1,5 @@
+l=int(input("enter l value"))
+b=int(input("enter b value"))
+r=int(input("enter r value"))
+print("area of rectangle",l*b)
+print("are of circle",2*3.14*r*r)
